@@ -1,6 +1,6 @@
 ### Hello Guys, I'm Artur Domingues 👋
 
-- 🔭 I’m currently working on Quantum Control of NV Center with ML
+- 🔭 I’m currently working on Quantum Control of NV Centers with ML
 - 🌱 I’m currently learning Machine Learning/Quantum Machine Learning
 - 👯 I’m looking to collaborate on Quantum Research Projects
 - 🤔 I’m looking for help with everything, I guess, but mostly help in connecting with people, I find it really hard
@@ -22,6 +22,6 @@
   <a href="https://www.linkedin.com/in/artur-domingues-a39963122" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/Artur_QML" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://https://github.com/ArturDomingues/ArturDomingues/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ArturDomingues/ArturDomingues/blob/output/github-contribution-grid-snake.svg)
  
 </div>
