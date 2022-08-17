@@ -29,5 +29,5 @@
  
 </div>
   
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e66b556c-4b3e-4302-ada6-95ee3a0dfe84" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>  
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="75efdccd-bf42-4a9f-9e31-4d292fca2a20" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
