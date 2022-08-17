@@ -30,5 +30,4 @@
 </div>
   
 <!--START_SECTION:badges-->
-[![Update badges](https://github.com/ArturDomingues/ArturDomingues/actions/workflows/update_badges.yml/badge.svg?branch=main)](https://github.com/ArturDomingues/ArturDomingues/actions/workflows/update_badges.yml)
 <!--END_SECTION:badges-->
