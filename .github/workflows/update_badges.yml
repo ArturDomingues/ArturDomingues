@@ -10,5 +10,4 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
-        with:       
-          CREDLY_USER: <artur-domingues> # optional, but default will use the same from github
+ 
