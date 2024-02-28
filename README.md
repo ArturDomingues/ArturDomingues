@@ -29,7 +29,6 @@
  
 </div>
 ##
-
 [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.com/donate/?business=DZ8W87A7EMKQU&no_recurring=0&item_name=Hello%2C+I%E2%80%99m+a+physicist+trying+to+pay+some+bills+while+doing+my+research%2C+any+support+would+help+me+a+lot&currency_code=BRL)
 
 ##  
