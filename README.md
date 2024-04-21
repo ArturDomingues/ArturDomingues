@@ -2,9 +2,9 @@
 ##
 - 🔭 I’m currently working on Quantum Control of NV Centers with ML
 - 🌱 I’m currently learning Machine Learning/Quantum Machine Learning
-- 👯 I’m looking to collaborate on Quantum Research Projects
-- 🤔 I’m looking for help with everything, I guess, but mostly help in connecting with people, I find it really hard
-- 💬 Ask me about Quantum Mechanics
+- 👯 I’m looking to collaborate on Quantum Info/Computation Research Projects
+- 🤔 I’m looking for help in connecting with people, I find it really hard
+- 💬 Ask me about Quantum Mechanics or Physics in general
 - 😄 Pronouns: He/Him
 
 ##
