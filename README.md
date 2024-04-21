@@ -6,7 +6,6 @@
 - 🤔 I’m looking for help with everything, I guess, but mostly help in connecting with people, I find it really hard
 - 💬 Ask me about Quantum Mechanics
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm not nice to talk to, but I really enjoy hearing people stories
 
 ##
 <div align="center">
