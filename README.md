@@ -8,6 +8,12 @@
 - 😄 Pronouns: He/Him
 
 ##
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArturDomingues&show_icons=true&theme=transparent)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturDomingues&langs_count=8)](https://github.com/ArturDomingues/github-readme-stats)
+
+##
 
 [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.com/donate/?business=DZ8W87A7EMKQU&no_recurring=0&item_name=Hello%2C+I%E2%80%99m+a+physicist+trying+to+pay+some+bills+while+doing+my+research%2C+any+support+would+help+me+a+lot&currency_code=BRL)
 
