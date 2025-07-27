@@ -11,7 +11,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArturDomingues&show_icons=true&theme=transparent&include_all_commits=true&hide_rank=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturDomingues&langs_count=5)](https://github.com/ArturDomingues/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturDomingues&langs_count=5&layout=compact&theme=transparent)](https://github.com/ArturDomingues/github-readme-stats)
 
 ##
 
