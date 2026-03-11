@@ -8,10 +8,19 @@
 - 😄 Pronouns: He/Him
 
 ##
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArturDomingues&show_icons=true&theme=transparent&include_all_commits=true&hide_rank=true)-->
 
+<div align="center">
+  <a href="https://github.com/ArturDomingues?tab=followers"><img src="https://img.shields.io/github/followers/ArturDomingues?label=Followers&style=social" /></a>
+  <a href="https://github.com/ArturDomingues"><img src="https://img.shields.io/github/stars/ArturDomingues?label=Stars&style=social" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ArturDomingues&label=Profile+Views&color=brightgreen" alt="Profile views" />
+</div>
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturDomingues&langs_count=5&layout=compact&theme=transparent)](https://github.com/ArturDomingues/github-readme-stats)-->
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=ArturDomingues&theme=tokyonight&background=1A1B27&border=none" />
+</div>
+
 
 ##
 
@@ -20,5 +29,3 @@
 [![Support via GitHub Sponsors](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/ArturDomingues)
 
 ##  
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
