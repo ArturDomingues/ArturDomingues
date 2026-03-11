@@ -11,7 +11,7 @@
 
 ### 💻 &nbsp;&nbsp;&nbsp; Languages
 
-[![My Skills](https://skillicons.dev/icons?i=python,julia,rust,lua&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,julia,fortran,c,cpp,rust&theme=dark)](https://skillicons.dev)
 
 <br/>
 
