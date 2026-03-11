@@ -11,13 +11,17 @@
 
 ### 💻 &nbsp;&nbsp;&nbsp; Languages
 
-[![My Skills](https://skillicons.dev/icons?i=python,julia,fortran,c,cpp,rust&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,julia&theme=dark)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=fortran,c,cpp,rust&theme=dark)](https://skillicons.dev)
 
 <br/>
 
 ### ⛓️ &nbsp;&nbsp;&nbsp; Tools In Use
 
-[![My Skills](https://skillicons.dev/icons?i=linux,neovim,vscode,git,github,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,neovim,git&theme=dark)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,github&theme=dark)](https://skillicons.dev)
 
 <br/>
 
