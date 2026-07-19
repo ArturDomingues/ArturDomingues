@@ -2,7 +2,7 @@
 ##
 
 - Did my Masters in Physics on how to simulate NV color centers (open quantum system stuff and quantum optics)
-- I’m doing my PhD on Quantum Control
+- I’m doing my PhD in Quantum Control
 - I'm always looking forward to connect with new people, I'm just bad at it
 - Hoping to contribute to something someday
 
