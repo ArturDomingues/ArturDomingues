@@ -1,11 +1,7 @@
 ### Hello Guys, I'm Artur Domingues 👋
 ##
-- 🔭 I’m currently working on Quantum Control of NV Centers with ML
-- 🌱 I’m currently learning Machine Learning/Quantum Machine Learning
-- 👯 I’m looking to collaborate on Quantum Info/Computation Research Projects
-- 🤔 I’m looking for help in connecting with people, I find it really hard
-- 💬 Ask me about Quantum Mechanics or Physics in general
-- 😄 Pronouns: He/Him
+
+- I’m doing my PhD on Quantum Control
 
 ##
 
@@ -19,9 +15,9 @@
 
 ### ⛓️ &nbsp;&nbsp;&nbsp; Tools In Use
 
-[![My Skills](https://skillicons.dev/icons?i=linux,neovim,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,neovim&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github&theme=dark)](https://skillicons.dev)
 
 <br/>
 
